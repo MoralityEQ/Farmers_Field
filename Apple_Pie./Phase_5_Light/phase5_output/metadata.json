@@ -1,0 +1,19 @@
+{
+  "framework": "Field-Aware Cosmology",
+  "phase": 5,
+  "concept": "Light as coherence auditor and moral judge",
+  "field_size": [
+    256,
+    128
+  ],
+  "parameters": {
+    "audit_intensity": 0.2,
+    "moral_threshold": 0.1,
+    "light_frequency": 0.3
+  },
+  "simulation_time": 1.3952510356903076,
+  "initial_mass": 3925.0,
+  "final_mass": 803.9890818327149,
+  "survival_rate": 0.20483798263253883,
+  "final_moral_count": 0
+}

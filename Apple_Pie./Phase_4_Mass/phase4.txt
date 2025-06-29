@@ -1,0 +1,425 @@
+=== FIELD-AWARE COSMOLOGY: PHASE 4 - MASS EMERGENCE ===
+Demonstrating that mass condenses from ethical field dynamics
+Only balanced regions can create persistent matter!
+Detected 24 CPU cores - engaging all for maximum performance!
+Field: 256x128
+Mass emergence threshold: 0.80 memory accumulation
+Recursion depth for mass (conceptual): 5 cycles
+Initial field uniformity (std dev): 0.000000
+  PARTICLE BORN at (32, 60) with mass 10.000!
+  PARTICLE BORN at (128, 60) with mass 10.000!
+  PARTICLE BORN at (32, 63) with mass 10.000!
+  PARTICLE BORN at (128, 63) with mass 10.000!
+  PARTICLE BORN at (31, 64) with mass 10.000!
+  PARTICLE BORN at (32, 64) with mass 10.000!
+  PARTICLE BORN at (33, 64) with mass 10.000!
+  PARTICLE BORN at (127, 64) with mass 10.000!
+  PARTICLE BORN at (128, 64) with mass 10.000!
+  PARTICLE BORN at (129, 64) with mass 10.000!
+Step 1/300 - 1.4 steps/sec - Total mass: 100.55, Particles: 10
+  PARTICLE BORN at (224, 64) with mass 10.000!
+Step 2/300 - 165.4 steps/sec - Total mass: 111.17, Particles: 11
+Step 3/300 - 191.9 steps/sec - Total mass: 113.55, Particles: 11
+Step 4/300 - 201.2 steps/sec - Total mass: 114.44, Particles: 11
+  PARTICLE BORN at (221, 60) with mass 10.000!
+  PARTICLE BORN at (227, 60) with mass 10.000!
+Step 5/300 - 168.5 steps/sec - Total mass: 136.82, Particles: 13
+  PARTICLE BORN at (27, 60) with mass 10.000!
+  PARTICLE BORN at (37, 60) with mass 10.000!
+  PARTICLE BORN at (123, 60) with mass 10.000!
+  PARTICLE BORN at (133, 60) with mass 10.000!
+  PARTICLE BORN at (26, 64) with mass 10.000!
+  PARTICLE BORN at (38, 64) with mass 10.000!
+  PARTICLE BORN at (122, 64) with mass 10.000!
+  PARTICLE BORN at (134, 64) with mass 10.000!
+Step 6/300 - 148.0 steps/sec - Total mass: 220.68, Particles: 21
+Step 7/300 - 151.3 steps/sec - Total mass: 223.05, Particles: 21
+  PARTICLE BORN at (218, 64) with mass 10.000!
+  PARTICLE BORN at (230, 64) with mass 10.000!
+Step 8/300 - 131.4 steps/sec - Total mass: 247.24, Particles: 23
+Step 9/300 - 133.6 steps/sec - Total mass: 249.60, Particles: 23
+Step 10/300 - 114.0 steps/sec - Total mass: 254.07, Particles: 23
+  PARTICLE BORN at (22, 60) with mass 10.000!
+  PARTICLE BORN at (42, 60) with mass 10.000!
+  PARTICLE BORN at (118, 60) with mass 10.000!
+  PARTICLE BORN at (138, 60) with mass 10.000!
+  PARTICLE BORN at (215, 60) with mass 10.000!
+  PARTICLE BORN at (233, 60) with mass 10.000!
+  PARTICLE BORN at (21, 64) with mass 10.000!
+  PARTICLE BORN at (43, 64) with mass 10.000!
+  PARTICLE BORN at (117, 64) with mass 10.000!
+  PARTICLE BORN at (139, 64) with mass 10.000!
+Step 11/300 - 103.0 steps/sec - Total mass: 358.82, Particles: 33
+Step 12/300 - 102.0 steps/sec - Total mass: 363.87, Particles: 33
+Step 13/300 - 112.2 steps/sec - Total mass: 368.62, Particles: 33
+  PARTICLE BORN at (212, 64) with mass 10.000!
+  PARTICLE BORN at (236, 64) with mass 10.000!
+Step 14/300 - 106.4 steps/sec - Total mass: 393.85, Particles: 35
+Step 15/300 - 112.7 steps/sec - Total mass: 398.60, Particles: 35
+  PARTICLE BORN at (17, 60) with mass 10.000!
+  PARTICLE BORN at (47, 60) with mass 10.000!
+  PARTICLE BORN at (113, 60) with mass 10.000!
+  PARTICLE BORN at (143, 60) with mass 10.000!
+  PARTICLE BORN at (16, 64) with mass 10.000!
+  PARTICLE BORN at (48, 64) with mass 10.000!
+  PARTICLE BORN at (112, 64) with mass 10.000!
+  PARTICLE BORN at (144, 64) with mass 10.000!
+Step 16/300 - 105.4 steps/sec - Total mass: 486.63, Particles: 43
+  PARTICLE BORN at (209, 60) with mass 10.000!
+  PARTICLE BORN at (239, 60) with mass 10.000!
+Step 17/300 - 98.8 steps/sec - Total mass: 511.37, Particles: 45
+Step 18/300 - 93.3 steps/sec - Total mass: 520.00, Particles: 45
+Step 19/300 - 83.5 steps/sec - Total mass: 524.73, Particles: 45
+  PARTICLE BORN at (206, 64) with mass 10.000!
+  PARTICLE BORN at (242, 64) with mass 10.000!
+Step 20/300 - 76.6 steps/sec - Total mass: 553.43, Particles: 47
+  PARTICLE BORN at (12, 60) with mass 10.000!
+  PARTICLE BORN at (52, 60) with mass 10.000!
+  PARTICLE BORN at (108, 60) with mass 10.000!
+  PARTICLE BORN at (148, 60) with mass 10.000!
+  PARTICLE BORN at (11, 64) with mass 10.000!
+  PARTICLE BORN at (53, 64) with mass 10.000!
+  PARTICLE BORN at (107, 64) with mass 10.000!
+  PARTICLE BORN at (149, 64) with mass 10.000!
+Step 21/300 - 66.1 steps/sec - Total mass: 640.55, Particles: 55
+Step 22/300 - 65.8 steps/sec - Total mass: 649.76, Particles: 55
+Step 23/300 - 60.1 steps/sec - Total mass: 656.88, Particles: 55
+  PARTICLE BORN at (203, 60) with mass 10.000!
+  PARTICLE BORN at (245, 60) with mass 10.000!
+Step 24/300 - 55.3 steps/sec - Total mass: 686.55, Particles: 57
+Step 25/300 - 52.2 steps/sec - Total mass: 693.66, Particles: 57
+  PARTICLE BORN at (7, 60) with mass 10.000!
+  PARTICLE BORN at (57, 60) with mass 10.000!
+  PARTICLE BORN at (103, 60) with mass 10.000!
+  PARTICLE BORN at (153, 60) with mass 10.000!
+  PARTICLE BORN at (6, 64) with mass 10.000!
+  PARTICLE BORN at (58, 64) with mass 10.000!
+  PARTICLE BORN at (102, 64) with mass 10.000!
+  PARTICLE BORN at (154, 64) with mass 10.000!
+Step 26/300 - 47.1 steps/sec - Total mass: 785.87, Particles: 65
+  PARTICLE BORN at (200, 64) with mass 10.000!
+  PARTICLE BORN at (248, 64) with mass 10.000!
+Step 27/300 - 44.8 steps/sec - Total mass: 812.97, Particles: 67
+Step 28/300 - 41.9 steps/sec - Total mass: 825.76, Particles: 67
+Step 29/300 - 39.1 steps/sec - Total mass: 832.86, Particles: 67
+  PARTICLE BORN at (197, 60) with mass 10.000!
+  PARTICLE BORN at (251, 60) with mass 10.000!
+Step 30/300 - 35.8 steps/sec - Total mass: 865.85, Particles: 69
+  PARTICLE BORN at (2, 60) with mass 10.000!
+  PARTICLE BORN at (62, 60) with mass 10.000!
+  PARTICLE BORN at (98, 60) with mass 10.000!
+  PARTICLE BORN at (158, 60) with mass 10.000!
+  PARTICLE BORN at (1, 64) with mass 10.000!
+  PARTICLE BORN at (63, 64) with mass 10.000!
+  PARTICLE BORN at (97, 64) with mass 10.000!
+  PARTICLE BORN at (159, 64) with mass 10.000!
+Step 31/300 - 32.2 steps/sec - Total mass: 955.34, Particles: 77
+Step 32/300 - 32.9 steps/sec - Total mass: 968.72, Particles: 77
+  PARTICLE BORN at (194, 64) with mass 10.000!
+  PARTICLE BORN at (254, 64) with mass 10.000!
+  PARTICLE BORN at (255, 64) with mass 10.000!
+Step 33/300 - 30.6 steps/sec - Total mass: 1008.43, Particles: 80
+Step 34/300 - 29.4 steps/sec - Total mass: 1022.41, Particles: 80
+Step 35/300 - 28.0 steps/sec - Total mass: 1032.19, Particles: 80
+  PARTICLE BORN at (67, 60) with mass 10.000!
+  PARTICLE BORN at (93, 60) with mass 10.000!
+  PARTICLE BORN at (163, 60) with mass 10.000!
+  PARTICLE BORN at (191, 60) with mass 10.000!
+  PARTICLE BORN at (68, 64) with mass 10.000!
+  PARTICLE BORN at (92, 64) with mass 10.000!
+  PARTICLE BORN at (164, 64) with mass 10.000!
+Step 36/300 - 26.6 steps/sec - Total mass: 1117.99, Particles: 87
+Step 37/300 - 26.1 steps/sec - Total mass: 1127.76, Particles: 87
+Step 38/300 - 24.8 steps/sec - Total mass: 1143.83, Particles: 87
+  PARTICLE BORN at (188, 64) with mass 10.000!
+Step 39/300 - 23.8 steps/sec - Total mass: 1163.60, Particles: 88
+Step 40/300 - 23.3 steps/sec - Total mass: 1179.97, Particles: 88
+  PARTICLE BORN at (72, 60) with mass 10.000!
+  PARTICLE BORN at (88, 60) with mass 10.000!
+  PARTICLE BORN at (168, 60) with mass 10.000!
+  PARTICLE BORN at (73, 64) with mass 10.000!
+  PARTICLE BORN at (87, 64) with mass 10.000!
+  PARTICLE BORN at (169, 64) with mass 10.000!
+Step 41/300 - 21.6 steps/sec - Total mass: 1251.53, Particles: 94
+  PARTICLE BORN at (185, 60) with mass 10.000!
+Step 42/300 - 22.0 steps/sec - Total mass: 1278.19, Particles: 95
+Step 43/300 - 21.0 steps/sec - Total mass: 1289.74, Particles: 95
+  PARTICLE BORN at (182, 64) with mass 10.000!
+Step 44/300 - 19.9 steps/sec - Total mass: 1316.48, Particles: 96
+Step 45/300 - 19.6 steps/sec - Total mass: 1328.04, Particles: 96
+  PARTICLE BORN at (77, 60) with mass 10.000!
+  PARTICLE BORN at (83, 60) with mass 10.000!
+  PARTICLE BORN at (173, 60) with mass 10.000!
+  PARTICLE BORN at (78, 64) with mass 10.000!
+  PARTICLE BORN at (82, 64) with mass 10.000!
+  PARTICLE BORN at (174, 64) with mass 10.000!
+Step 46/300 - 18.2 steps/sec - Total mass: 1406.78, Particles: 102
+  PARTICLE BORN at (179, 60) with mass 10.000!
+Step 47/300 - 18.5 steps/sec - Total mass: 1428.33, Particles: 103
+Step 48/300 - 17.7 steps/sec - Total mass: 1447.37, Particles: 103
+Step 49/300 - 17.3 steps/sec - Total mass: 1458.92, Particles: 103
+Step 50/300 - 17.3 steps/sec - Total mass: 1477.96, Particles: 103
+Step 51/300 - 17.3 steps/sec - Total mass: 1489.51, Particles: 103
+Step 52/300 - 17.2 steps/sec - Total mass: 1508.56, Particles: 103
+Step 53/300 - 17.3 steps/sec - Total mass: 1520.10, Particles: 103
+Step 54/300 - 17.3 steps/sec - Total mass: 1539.15, Particles: 103
+Step 55/300 - 17.3 steps/sec - Total mass: 1550.69, Particles: 103
+Step 56/300 - 17.2 steps/sec - Total mass: 1569.74, Particles: 103
+Step 57/300 - 17.4 steps/sec - Total mass: 1581.28, Particles: 103
+Step 58/300 - 17.4 steps/sec - Total mass: 1600.33, Particles: 103
+Step 59/300 - 17.3 steps/sec - Total mass: 1611.87, Particles: 103
+Step 60/300 - 17.2 steps/sec - Total mass: 1630.92, Particles: 103
+Step 61/300 - 17.2 steps/sec - Total mass: 1642.46, Particles: 103
+Step 62/300 - 17.3 steps/sec - Total mass: 1661.51, Particles: 103
+Step 63/300 - 17.4 steps/sec - Total mass: 1673.06, Particles: 103
+Step 64/300 - 17.3 steps/sec - Total mass: 1692.10, Particles: 103
+Step 65/300 - 17.4 steps/sec - Total mass: 1703.65, Particles: 103
+Step 66/300 - 17.2 steps/sec - Total mass: 1722.69, Particles: 103
+Step 67/300 - 17.2 steps/sec - Total mass: 1734.24, Particles: 103
+Step 68/300 - 17.3 steps/sec - Total mass: 1753.28, Particles: 103
+Step 69/300 - 17.5 steps/sec - Total mass: 1764.83, Particles: 103
+Step 70/300 - 17.2 steps/sec - Total mass: 1783.87, Particles: 103
+Step 71/300 - 17.4 steps/sec - Total mass: 1795.42, Particles: 103
+Step 72/300 - 17.3 steps/sec - Total mass: 1814.47, Particles: 103
+Step 73/300 - 17.3 steps/sec - Total mass: 1826.01, Particles: 103
+Step 74/300 - 17.3 steps/sec - Total mass: 1845.06, Particles: 103
+Step 75/300 - 17.4 steps/sec - Total mass: 1856.60, Particles: 103
+Step 76/300 - 17.2 steps/sec - Total mass: 1875.65, Particles: 103
+Step 77/300 - 17.2 steps/sec - Total mass: 1887.19, Particles: 103
+Step 78/300 - 17.2 steps/sec - Total mass: 1906.24, Particles: 103
+Step 79/300 - 17.2 steps/sec - Total mass: 1917.78, Particles: 103
+Step 80/300 - 17.4 steps/sec - Total mass: 1936.83, Particles: 103
+Step 81/300 - 17.3 steps/sec - Total mass: 1948.37, Particles: 103
+Step 82/300 - 17.2 steps/sec - Total mass: 1967.42, Particles: 103
+Step 83/300 - 17.3 steps/sec - Total mass: 1978.97, Particles: 103
+Step 84/300 - 17.2 steps/sec - Total mass: 1998.01, Particles: 103
+Step 85/300 - 17.3 steps/sec - Total mass: 2009.56, Particles: 103
+Step 86/300 - 17.7 steps/sec - Total mass: 2028.60, Particles: 103
+Step 87/300 - 17.4 steps/sec - Total mass: 2040.15, Particles: 103
+Step 88/300 - 17.2 steps/sec - Total mass: 2059.19, Particles: 103
+Step 89/300 - 17.2 steps/sec - Total mass: 2070.74, Particles: 103
+Step 90/300 - 17.2 steps/sec - Total mass: 2089.78, Particles: 103
+Step 91/300 - 17.2 steps/sec - Total mass: 2101.33, Particles: 103
+Step 92/300 - 17.2 steps/sec - Total mass: 2120.38, Particles: 103
+Step 93/300 - 17.3 steps/sec - Total mass: 2131.92, Particles: 103
+Step 94/300 - 17.5 steps/sec - Total mass: 2150.97, Particles: 103
+Step 95/300 - 17.5 steps/sec - Total mass: 2162.51, Particles: 103
+Step 96/300 - 17.3 steps/sec - Total mass: 2181.56, Particles: 103
+Step 97/300 - 17.5 steps/sec - Total mass: 2193.10, Particles: 103
+Step 98/300 - 17.6 steps/sec - Total mass: 2212.15, Particles: 103
+Step 99/300 - 17.5 steps/sec - Total mass: 2223.69, Particles: 103
+Step 100/300 - 17.4 steps/sec - Total mass: 2242.74, Particles: 103
+Step 101/300 - 17.3 steps/sec - Total mass: 2254.28, Particles: 103
+Step 102/300 - 17.5 steps/sec - Total mass: 2273.33, Particles: 103
+Step 103/300 - 17.5 steps/sec - Total mass: 2284.88, Particles: 103
+Step 104/300 - 17.6 steps/sec - Total mass: 2303.92, Particles: 103
+Step 105/300 - 17.4 steps/sec - Total mass: 2315.47, Particles: 103
+Step 106/300 - 17.2 steps/sec - Total mass: 2334.51, Particles: 103
+Step 107/300 - 17.4 steps/sec - Total mass: 2346.06, Particles: 103
+Step 108/300 - 17.3 steps/sec - Total mass: 2365.10, Particles: 103
+Step 109/300 - 17.3 steps/sec - Total mass: 2376.65, Particles: 103
+Step 110/300 - 17.2 steps/sec - Total mass: 2395.69, Particles: 103
+Step 111/300 - 17.6 steps/sec - Total mass: 2407.24, Particles: 103
+Step 112/300 - 17.6 steps/sec - Total mass: 2426.29, Particles: 103
+Step 113/300 - 17.3 steps/sec - Total mass: 2437.83, Particles: 103
+Step 114/300 - 17.6 steps/sec - Total mass: 2456.88, Particles: 103
+Step 115/300 - 17.6 steps/sec - Total mass: 2468.42, Particles: 103
+Step 116/300 - 17.4 steps/sec - Total mass: 2487.47, Particles: 103
+Step 117/300 - 17.5 steps/sec - Total mass: 2499.01, Particles: 103
+Step 118/300 - 17.3 steps/sec - Total mass: 2518.06, Particles: 103
+Step 119/300 - 17.3 steps/sec - Total mass: 2529.60, Particles: 103
+Step 120/300 - 17.5 steps/sec - Total mass: 2548.65, Particles: 103
+Step 121/300 - 17.4 steps/sec - Total mass: 2560.19, Particles: 103
+Step 122/300 - 17.2 steps/sec - Total mass: 2579.24, Particles: 103
+Step 123/300 - 17.6 steps/sec - Total mass: 2590.79, Particles: 103
+Step 124/300 - 17.5 steps/sec - Total mass: 2609.83, Particles: 103
+Step 125/300 - 17.3 steps/sec - Total mass: 2621.38, Particles: 103
+Step 126/300 - 17.5 steps/sec - Total mass: 2640.42, Particles: 103
+Step 127/300 - 17.3 steps/sec - Total mass: 2651.97, Particles: 103
+Step 128/300 - 17.4 steps/sec - Total mass: 2671.01, Particles: 103
+Step 129/300 - 17.2 steps/sec - Total mass: 2682.56, Particles: 103
+Step 130/300 - 17.5 steps/sec - Total mass: 2701.60, Particles: 103
+Step 131/300 - 17.6 steps/sec - Total mass: 2713.15, Particles: 103
+Step 132/300 - 17.5 steps/sec - Total mass: 2732.20, Particles: 103
+Step 133/300 - 17.2 steps/sec - Total mass: 2743.74, Particles: 103
+Step 134/300 - 17.3 steps/sec - Total mass: 2762.79, Particles: 103
+Step 135/300 - 17.2 steps/sec - Total mass: 2774.33, Particles: 103
+Step 136/300 - 17.5 steps/sec - Total mass: 2793.38, Particles: 103
+Step 137/300 - 17.4 steps/sec - Total mass: 2804.92, Particles: 103
+Step 138/300 - 17.2 steps/sec - Total mass: 2823.97, Particles: 103
+Step 139/300 - 17.5 steps/sec - Total mass: 2835.51, Particles: 103
+Step 140/300 - 17.1 steps/sec - Total mass: 2854.56, Particles: 103
+Step 141/300 - 17.2 steps/sec - Total mass: 2866.10, Particles: 103
+Step 142/300 - 17.3 steps/sec - Total mass: 2885.15, Particles: 103
+Step 143/300 - 17.3 steps/sec - Total mass: 2896.70, Particles: 103
+Step 144/300 - 17.3 steps/sec - Total mass: 2915.74, Particles: 103
+Step 145/300 - 17.3 steps/sec - Total mass: 2927.29, Particles: 103
+Step 146/300 - 17.5 steps/sec - Total mass: 2946.33, Particles: 103
+Step 147/300 - 17.4 steps/sec - Total mass: 2957.88, Particles: 103
+Step 148/300 - 17.5 steps/sec - Total mass: 2976.92, Particles: 103
+Step 149/300 - 17.5 steps/sec - Total mass: 2988.47, Particles: 103
+Step 150/300 - 17.4 steps/sec - Total mass: 3007.51, Particles: 103
+Step 151/300 - 17.2 steps/sec - Total mass: 3019.06, Particles: 103
+Step 152/300 - 17.4 steps/sec - Total mass: 3038.11, Particles: 103
+Step 153/300 - 17.2 steps/sec - Total mass: 3049.65, Particles: 103
+Step 154/300 - 17.2 steps/sec - Total mass: 3068.70, Particles: 103
+Step 155/300 - 17.4 steps/sec - Total mass: 3080.24, Particles: 103
+Step 156/300 - 17.0 steps/sec - Total mass: 3099.29, Particles: 103
+Step 157/300 - 17.4 steps/sec - Total mass: 3110.83, Particles: 103
+Step 158/300 - 17.4 steps/sec - Total mass: 3129.88, Particles: 103
+Step 159/300 - 17.2 steps/sec - Total mass: 3141.42, Particles: 103
+Step 160/300 - 16.8 steps/sec - Total mass: 3160.47, Particles: 103
+Step 161/300 - 17.2 steps/sec - Total mass: 3172.01, Particles: 103
+Step 162/300 - 17.2 steps/sec - Total mass: 3191.06, Particles: 103
+Step 163/300 - 16.9 steps/sec - Total mass: 3202.61, Particles: 103
+Step 164/300 - 17.1 steps/sec - Total mass: 3221.65, Particles: 103
+Step 165/300 - 17.2 steps/sec - Total mass: 3233.20, Particles: 103
+Step 166/300 - 17.0 steps/sec - Total mass: 3252.24, Particles: 103
+Step 167/300 - 17.0 steps/sec - Total mass: 3263.79, Particles: 103
+Step 168/300 - 17.0 steps/sec - Total mass: 3282.83, Particles: 103
+Step 169/300 - 16.9 steps/sec - Total mass: 3294.38, Particles: 103
+Step 170/300 - 17.3 steps/sec - Total mass: 3313.42, Particles: 103
+Step 171/300 - 17.1 steps/sec - Total mass: 3324.97, Particles: 103
+Step 172/300 - 17.4 steps/sec - Total mass: 3344.02, Particles: 103
+Step 173/300 - 16.7 steps/sec - Total mass: 3355.56, Particles: 103
+Step 174/300 - 17.2 steps/sec - Total mass: 3374.61, Particles: 103
+Step 175/300 - 17.2 steps/sec - Total mass: 3386.15, Particles: 103
+Step 176/300 - 17.2 steps/sec - Total mass: 3405.20, Particles: 103
+Step 177/300 - 17.1 steps/sec - Total mass: 3416.74, Particles: 103
+Step 178/300 - 17.4 steps/sec - Total mass: 3435.79, Particles: 103
+Step 179/300 - 17.4 steps/sec - Total mass: 3447.33, Particles: 103
+Step 180/300 - 17.4 steps/sec - Total mass: 3466.38, Particles: 103
+Step 181/300 - 17.4 steps/sec - Total mass: 3477.92, Particles: 103
+Step 182/300 - 17.3 steps/sec - Total mass: 3496.97, Particles: 103
+Step 183/300 - 17.3 steps/sec - Total mass: 3508.52, Particles: 103
+Step 184/300 - 17.3 steps/sec - Total mass: 3527.56, Particles: 103
+Step 185/300 - 16.9 steps/sec - Total mass: 3539.11, Particles: 103
+Step 186/300 - 17.2 steps/sec - Total mass: 3558.15, Particles: 103
+Step 187/300 - 17.2 steps/sec - Total mass: 3569.70, Particles: 103
+Step 188/300 - 17.2 steps/sec - Total mass: 3588.74, Particles: 103
+Step 189/300 - 17.1 steps/sec - Total mass: 3600.29, Particles: 103
+Step 190/300 - 17.3 steps/sec - Total mass: 3619.33, Particles: 103
+Step 191/300 - 17.1 steps/sec - Total mass: 3630.88, Particles: 103
+Step 192/300 - 17.2 steps/sec - Total mass: 3649.93, Particles: 103
+Step 193/300 - 17.3 steps/sec - Total mass: 3661.47, Particles: 103
+Step 194/300 - 17.2 steps/sec - Total mass: 3680.52, Particles: 103
+Step 195/300 - 17.3 steps/sec - Total mass: 3692.06, Particles: 103
+Step 196/300 - 17.1 steps/sec - Total mass: 3711.11, Particles: 103
+Step 197/300 - 17.0 steps/sec - Total mass: 3722.65, Particles: 103
+Step 198/300 - 17.1 steps/sec - Total mass: 3741.70, Particles: 103
+Step 199/300 - 17.4 steps/sec - Total mass: 3753.24, Particles: 103
+Step 200/300 - 17.1 steps/sec - Total mass: 3772.29, Particles: 103
+Step 201/300 - 17.1 steps/sec - Total mass: 3783.83, Particles: 103
+Step 202/300 - 17.2 steps/sec - Total mass: 3802.88, Particles: 103
+Step 203/300 - 17.0 steps/sec - Total mass: 3814.43, Particles: 103
+Step 204/300 - 17.0 steps/sec - Total mass: 3833.47, Particles: 103
+Step 205/300 - 17.2 steps/sec - Total mass: 3845.02, Particles: 103
+Step 206/300 - 17.3 steps/sec - Total mass: 3864.06, Particles: 103
+Step 207/300 - 17.2 steps/sec - Total mass: 3875.61, Particles: 103
+Step 208/300 - 17.2 steps/sec - Total mass: 3894.65, Particles: 103
+Step 209/300 - 17.0 steps/sec - Total mass: 3906.20, Particles: 103
+Step 210/300 - 17.3 steps/sec - Total mass: 3925.24, Particles: 103
+Step 211/300 - 17.2 steps/sec - Total mass: 3936.79, Particles: 103
+Step 212/300 - 17.1 steps/sec - Total mass: 3955.84, Particles: 103
+Step 213/300 - 17.1 steps/sec - Total mass: 3967.38, Particles: 103
+Step 214/300 - 17.1 steps/sec - Total mass: 3986.43, Particles: 103
+Step 215/300 - 17.3 steps/sec - Total mass: 3997.97, Particles: 103
+Step 216/300 - 17.4 steps/sec - Total mass: 4017.02, Particles: 103
+Step 217/300 - 17.2 steps/sec - Total mass: 4028.56, Particles: 103
+Step 218/300 - 17.1 steps/sec - Total mass: 4047.61, Particles: 103
+Step 219/300 - 17.2 steps/sec - Total mass: 4059.15, Particles: 103
+Step 220/300 - 17.2 steps/sec - Total mass: 4078.20, Particles: 103
+Step 221/300 - 17.2 steps/sec - Total mass: 4089.74, Particles: 103
+Step 222/300 - 17.4 steps/sec - Total mass: 4108.79, Particles: 103
+Step 223/300 - 17.2 steps/sec - Total mass: 4120.34, Particles: 103
+Step 224/300 - 16.7 steps/sec - Total mass: 4139.38, Particles: 103
+Step 225/300 - 17.1 steps/sec - Total mass: 4150.93, Particles: 103
+Step 226/300 - 17.1 steps/sec - Total mass: 4169.97, Particles: 103
+Step 227/300 - 17.2 steps/sec - Total mass: 4181.52, Particles: 103
+Step 228/300 - 17.3 steps/sec - Total mass: 4200.56, Particles: 103
+Step 229/300 - 16.8 steps/sec - Total mass: 4212.11, Particles: 103
+Step 230/300 - 17.1 steps/sec - Total mass: 4231.15, Particles: 103
+Step 231/300 - 17.2 steps/sec - Total mass: 4242.70, Particles: 103
+Step 232/300 - 16.6 steps/sec - Total mass: 4261.75, Particles: 103
+Step 233/300 - 16.9 steps/sec - Total mass: 4273.29, Particles: 103
+Step 234/300 - 17.3 steps/sec - Total mass: 4292.34, Particles: 103
+Step 235/300 - 17.0 steps/sec - Total mass: 4303.88, Particles: 103
+Step 236/300 - 17.1 steps/sec - Total mass: 4322.93, Particles: 103
+Step 237/300 - 17.1 steps/sec - Total mass: 4334.47, Particles: 103
+Step 238/300 - 16.5 steps/sec - Total mass: 4353.52, Particles: 103
+Step 239/300 - 17.0 steps/sec - Total mass: 4365.06, Particles: 103
+Step 240/300 - 17.3 steps/sec - Total mass: 4384.11, Particles: 103
+Step 241/300 - 16.9 steps/sec - Total mass: 4395.65, Particles: 103
+Step 242/300 - 16.8 steps/sec - Total mass: 4414.70, Particles: 103
+Step 243/300 - 17.1 steps/sec - Total mass: 4426.25, Particles: 103
+Step 244/300 - 16.8 steps/sec - Total mass: 4445.29, Particles: 103
+Step 245/300 - 17.2 steps/sec - Total mass: 4456.84, Particles: 103
+Step 246/300 - 17.2 steps/sec - Total mass: 4475.88, Particles: 103
+Step 247/300 - 17.1 steps/sec - Total mass: 4487.43, Particles: 103
+Step 248/300 - 17.0 steps/sec - Total mass: 4506.47, Particles: 103
+Step 249/300 - 17.3 steps/sec - Total mass: 4518.02, Particles: 103
+Step 250/300 - 17.1 steps/sec - Total mass: 4537.06, Particles: 103
+Step 251/300 - 17.2 steps/sec - Total mass: 4548.61, Particles: 103
+Step 252/300 - 17.4 steps/sec - Total mass: 4567.66, Particles: 103
+Step 253/300 - 17.4 steps/sec - Total mass: 4579.20, Particles: 103
+Step 254/300 - 17.2 steps/sec - Total mass: 4598.25, Particles: 103
+Step 255/300 - 17.2 steps/sec - Total mass: 4609.79, Particles: 103
+Step 256/300 - 17.6 steps/sec - Total mass: 4628.84, Particles: 103
+Step 257/300 - 17.2 steps/sec - Total mass: 4640.38, Particles: 103
+Step 258/300 - 17.4 steps/sec - Total mass: 4659.43, Particles: 103
+Step 259/300 - 17.2 steps/sec - Total mass: 4670.97, Particles: 103
+Step 260/300 - 17.2 steps/sec - Total mass: 4690.02, Particles: 103
+Step 261/300 - 17.4 steps/sec - Total mass: 4701.56, Particles: 103
+Step 262/300 - 17.3 steps/sec - Total mass: 4720.61, Particles: 103
+Step 263/300 - 17.2 steps/sec - Total mass: 4732.16, Particles: 103
+Step 264/300 - 17.2 steps/sec - Total mass: 4751.20, Particles: 103
+Step 265/300 - 17.3 steps/sec - Total mass: 4762.75, Particles: 103
+Step 266/300 - 17.2 steps/sec - Total mass: 4781.79, Particles: 103
+Step 267/300 - 17.2 steps/sec - Total mass: 4793.34, Particles: 103
+Step 268/300 - 17.4 steps/sec - Total mass: 4812.38, Particles: 103
+Step 269/300 - 17.3 steps/sec - Total mass: 4823.93, Particles: 103
+Step 270/300 - 17.1 steps/sec - Total mass: 4842.78, Particles: 103
+Step 271/300 - 17.3 steps/sec - Total mass: 4853.02, Particles: 103
+Step 272/300 - 17.5 steps/sec - Total mass: 4871.34, Particles: 103
+Step 273/300 - 17.5 steps/sec - Total mass: 4880.51, Particles: 103
+Step 274/300 - 17.5 steps/sec - Total mass: 4897.70, Particles: 103
+Step 275/300 - 17.2 steps/sec - Total mass: 4906.87, Particles: 103
+Step 276/300 - 17.3 steps/sec - Total mass: 4922.06, Particles: 103
+Step 277/300 - 17.2 steps/sec - Total mass: 4931.23, Particles: 103
+Step 278/300 - 17.1 steps/sec - Total mass: 4945.90, Particles: 103
+Step 279/300 - 17.4 steps/sec - Total mass: 4954.30, Particles: 103
+Step 280/300 - 17.4 steps/sec - Total mass: 4968.70, Particles: 103
+Step 281/300 - 17.3 steps/sec - Total mass: 4975.50, Particles: 103
+Step 282/300 - 17.6 steps/sec - Total mass: 4989.49, Particles: 103
+Step 283/300 - 17.5 steps/sec - Total mass: 4996.29, Particles: 103
+Step 284/300 - 17.2 steps/sec - Total mass: 5009.14, Particles: 103
+Step 285/300 - 17.4 steps/sec - Total mass: 5015.93, Particles: 103
+Step 286/300 - 17.4 steps/sec - Total mass: 5026.77, Particles: 103
+Step 287/300 - 17.5 steps/sec - Total mass: 5033.56, Particles: 103
+Step 288/300 - 17.3 steps/sec - Total mass: 5044.00, Particles: 103
+Step 289/300 - 17.2 steps/sec - Total mass: 5050.02, Particles: 103
+Step 290/300 - 17.3 steps/sec - Total mass: 5060.19, Particles: 103
+Step 291/300 - 17.1 steps/sec - Total mass: 5064.61, Particles: 103
+Step 292/300 - 17.6 steps/sec - Total mass: 5074.40, Particles: 103
+Step 293/300 - 17.2 steps/sec - Total mass: 5078.82, Particles: 103
+Step 294/300 - 17.4 steps/sec - Total mass: 5087.29, Particles: 103
+Step 295/300 - 17.2 steps/sec - Total mass: 5091.71, Particles: 103
+Step 296/300 - 17.4 steps/sec - Total mass: 5098.39, Particles: 103
+Step 297/300 - 17.3 steps/sec - Total mass: 5102.81, Particles: 103
+Step 298/300 - 17.6 steps/sec - Total mass: 5109.08, Particles: 103
+Step 299/300 - 17.5 steps/sec - Total mass: 5112.73, Particles: 103
+Step 300/300 - 17.3 steps/sec - Total mass: 5118.63, Particles: 103
+
+Simulation finished in 16.48 seconds.
+
+=== MASS ANALYSIS ===
+Total emergent mass: 5118.63
+Stable particles formed: 103
+
+Particle distribution (threshold mass > 0.10):
+  In 'Instant' (Fast) time zone: 29
+  In 'Transition/Delayed' (Slow) time zones: 74
+
+PROVEN: Mass requires time, memory, and ethical balance (more in slow/delayed zones)!
+
+Saved visualization to: fac_phase4_mass_emergence_cleaned.png
