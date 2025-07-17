@@ -1,0 +1,1 @@
+Science without spiritual grounding becomes materialist reductionism that explains 5% of reality. Religion without empirical testing becomes dogmatic entropy that creates division instead of unity.
