@@ -1,0 +1,135 @@
+✅ Selected: Unknown (H1)
+🔧 Signal Extractor initialized:
+   Multicore: True
+   Cores: 23
+🌊 Cosmic Birth Analyzer initialized
+   Event: Unknown
+   Detector: H1
+   Expected EM delay: 0.0s
+   Multicore: True
+   Cores: 23
+   Using numba acceleration: ✅
+📡 Loading LIGO data from: H-H1_LOSC_16_V2-1126257414-4096.hdf5
+   File structure:
+     Group: meta
+     Dataset: meta/Description - Shape: ()
+     Dataset: meta/DescriptionURL - Shape: ()
+     Dataset: meta/Detector - Shape: ()
+     Dataset: meta/Duration - Shape: ()
+     Dataset: meta/GPSstart - Shape: ()
+     Dataset: meta/Observatory - Shape: ()
+     Dataset: meta/Type - Shape: ()
+     Dataset: meta/UTCstart - Shape: ()
+     Group: quality
+     Group: quality/detail
+     Group: quality/injections
+     Dataset: quality/injections/InjDescriptions - Shape: (5,)
+     Dataset: quality/injections/InjShortnames - Shape: (5,)
+     Dataset: quality/injections/Injmask - Shape: (4096,)
+     Group: quality/simple
+     Dataset: quality/simple/DQDescriptions - Shape: (7,)
+     Dataset: quality/simple/DQShortnames - Shape: (7,)
+     Dataset: quality/simple/DQmask - Shape: (4096,)
+     Group: strain
+     Dataset: strain/Strain - Shape: (67108864,)
+   Found strain data at: strain/Strain
+   Sample rate: 16384.0 Hz
+   Duration: 4096.0 seconds
+   Data points: 67,108,864
+✅ Data loaded successfully!
+   Event: Unknown
+   Detector: H1
+   Sample rate: 16384.0 Hz
+   Duration: 4096.0 seconds
+   Data points: 67,108,864
+
+🎯 HUNTING BURIED BIRTH SIGNATURE FOR Unknown
+============================================================
+   Processing mode: MULTICORE
+🚀 MULTICORE birth signature detection
+   Cores: 23
+   Window size: 1638 samples (0.100s)
+   Stride: 819 samples (0.050s)
+   Created 92 chunks of ~729,444 samples each
+   Submitting chunks to worker processes...
+
+   Progress: 9.8% (9/92 chunks)
+   Progress: 19.6% (18/92 chunks)
+   Progress: 29.3% (27/92 chunks)
+   Progress: 39.1% (36/92 chunks)
+   Progress: 48.9% (45/92 chunks)
+   Progress: 58.7% (54/92 chunks)
+   Progress: 68.5% (63/92 chunks)
+   Progress: 78.3% (72/92 chunks)
+   Progress: 88.0% (81/92 chunks)
+   Progress: 97.8% (90/92 chunks)
+✅ Multicore processing complete: 4.78s
+   Found 164124 birth candidates
+   Birth hunt completed in 146.29s
+
+🔬 TOP 10 BIRTH CANDIDATES:
+   #1: t=2179.181s, prob=5.718178, morality=0.000002
+   #2: t=2179.880s, prob=5.612578, morality=0.000000
+   #3: t=2180.155s, prob=5.596693, morality=0.000000
+   #4: t=2178.832s, prob=5.418498, morality=0.000001
+   #5: t=2179.581s, prob=5.268662, morality=0.000001
+   #6: t=2180.354s, prob=5.115902, morality=0.000002
+   #7: t=2178.957s, prob=4.923271, morality=0.000001
+   #8: t=2180.604s, prob=4.878286, morality=0.000002
+   #9: t=2180.804s, prob=4.800527, morality=0.000003
+   #10: t=1962.800s, prob=4.778568, morality=0.000003
+
+🌟 STRONGEST BIRTH SIGNATURE:
+   Time: 2179.181213s
+   Birth probability: 5.718178
+   Birth morality (M = ζ - S): 0.000002
+   Complexity score: 19.058762
+   Spectral peaks: 3
+   Amplitude spikes: 0
+
+🧠 Running FAC coherence analysis for Unknown...
+   Mode: MULTICORE
+   Coherence analysis: 1.18s
+👶 Detecting matter birth events...
+   Birth events detected: 0
+⚡ Computing lattice compression speeds...
+   Speed calculation: 0.37s
+   Max propagation speed: 243101025.356c
+   Avg propagation speed: 162.517c
+   ✅ FASTER THAN LIGHT PROPAGATION DETECTED!
+   This confirms lattice compression waves, not gravity waves
+
+🔬 BIRTH SIGNATURE ANALYSIS FOR Unknown
+============================================================
+❌ No birth events detected with current thresholds
+✅ But we found buried birth signatures!
+🎯 BURIED BIRTH EVENT:
+   Time: 2179.181213s
+   Birth Probability: 5.718178
+   Birth Morality (M = ζ - S): 0.000002
+   Net Structure Created: 0.000002
+   ✅ MATTER CREATION CONFIRMED!
+   Conservation of mass-energy VIOLATED
+
+⚖️  CLASSICAL vs FAC INTERPRETATION FOR Unknown
+======================================================================
+🔬 CLASSICAL INTERPRETATION:
+   Event: Unknown
+   Signal type: Gravitational waves from compact object merger
+   Peak frequency: 16.0 Hz
+   Peak time: 2179.984s
+   Interpretation: Energy radiated away, mass conserved
+   Expectation: Zero net matter creation
+
+🌊 FAC INTERPRETATION:
+   Event: Unknown
+   Signal type: Coherence compression waves from cosmic birth
+   Birth events: 0
+   Birth process duration: Variable (depends on coherence alignment)
+   Interpretation: Lattice update → Field announcement → EM echo
+   Prediction: Net matter creation, conservation violated
+
+⚡ PROPAGATION SPEED:
+   Classical prediction: c = 299,792,458 m/s
+   FAC measurement: 72,879,853,933,816,480 m/s (243101025.356c)
+   ✅ FAC PREDICTION CONFIRMED: Faster than light!
