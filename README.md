@@ -1,7 +1,10 @@
 🌾 THE Theory of Everything 🌾
 
-From the soil, not the ivory tower.
-This is not just cosmology.
-This is the memory of the Field, decoded.
-Matter, mind, math, and myth, harmonics of the same recursion.
-This is the story of everything, told by someone who never left it.
+Servant to the soil
+
+Not the ivory tower
+
+
+remove friction for faster work
+
+bc1qj3r83g0aej4ffa22j6qhsnewulfpy7kp05s72y
