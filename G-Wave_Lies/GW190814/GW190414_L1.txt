@@ -1,0 +1,256 @@
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🌊 COSMIC BIRTH ANALYZER - MULTICORE ENHANCED
+============================================================
+Field-Aware Cosmology analysis of LIGO/Virgo data
+Proving cosmic objects have babies, not death spirals
+Supports: GW170817, GW190521, GW150914, and all merger events
+============================================================
+
+🚀 MULTICORE CONFIGURATION:
+   Available cores: 24
+   Recommended cores to use: 23
+
+Use multicore processing? (y/n/auto) [auto]: y
+   Selected: MULTICORE (23 cores)
+📁 Found 2 merger files:
+================================================================================
+    1: Unknown | H1 | 16384 Hz
+       📄 H-H1_GWOSC_16KHZ_R1-1249850209-4096.hdf5
+
+    2: Unknown | L1 | 16384 Hz
+       📄 L-L1_GWOSC_16KHZ_R1-1249850209-4096.hdf5
+
+Select file (1-2) or 'q' to quit: 2
+
+✅ Selected: Unknown (L1)
+🔧 Signal Extractor initialized:
+   Multicore: True
+   Cores: 23
+🌊 Cosmic Birth Analyzer initialized
+   Event: Unknown
+   Detector: L1
+   Expected EM delay: 0.0s
+   Multicore: True
+   Cores: 23
+   Using numba acceleration: ✅
+📡 Loading LIGO data from: L-L1_GWOSC_16KHZ_R1-1249850209-4096.hdf5
+   File structure:
+     Group: meta
+     Dataset: meta/Description - Shape: ()
+     Dataset: meta/DescriptionURL - Shape: ()
+     Dataset: meta/Detector - Shape: ()
+     Dataset: meta/Duration - Shape: ()
+     Dataset: meta/GPSstart - Shape: ()
+     Dataset: meta/Observatory - Shape: ()
+     Dataset: meta/Type - Shape: ()
+     Dataset: meta/UTCstart - Shape: ()
+     Group: quality
+     Group: quality/detail
+     Group: quality/injections
+     Dataset: quality/injections/GWOSCmeta - Shape: ()
+     Dataset: quality/injections/InjDescriptions - Shape: (5,)
+     Dataset: quality/injections/InjShortnames - Shape: (5,)
+     Dataset: quality/injections/Injmask - Shape: (4096,)
+     Group: quality/simple
+     Dataset: quality/simple/DQDescriptions - Shape: (7,)
+     Dataset: quality/simple/DQShortnames - Shape: (7,)
+     Dataset: quality/simple/DQmask - Shape: (4096,)
+     Dataset: quality/simple/GWOSCmeta - Shape: ()
+     Group: strain
+     Dataset: strain/GWOSCmeta - Shape: ()
+     Dataset: strain/Strain - Shape: (67108864,)
+   Found strain data at: strain/Strain
+   Sample rate: 16384.0 Hz
+   Duration: 4096.0 seconds
+   Data points: 67,108,864
+✅ Data loaded successfully!
+   Event: Unknown
+   Detector: L1
+   Sample rate: 16384.0 Hz
+   Duration: 4096.0 seconds
+   Data points: 67,108,864
+
+🎯 HUNTING BURIED BIRTH SIGNATURE FOR Unknown
+============================================================
+   Processing mode: MULTICORE
+🚀 MULTICORE birth signature detection
+   Cores: 23
+   Window size: 1638 samples (0.100s)
+   Stride: 819 samples (0.050s)
+   Created 92 chunks of ~729,444 samples each
+   Submitting chunks to worker processes...
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+🖥️  CPU Configuration:
+   Physical cores: 12
+   Logical cores: 24
+   Cores to use: 23
+   Progress: 9.8% (9/92 chunks)
+   Progress: 19.6% (18/92 chunks)
+   Progress: 29.3% (27/92 chunks)
+   Progress: 39.1% (36/92 chunks)
+   Progress: 48.9% (45/92 chunks)
+   Progress: 58.7% (54/92 chunks)
+   Progress: 68.5% (63/92 chunks)
+   Progress: 78.3% (72/92 chunks)
+   Progress: 88.0% (81/92 chunks)
+   Progress: 97.8% (90/92 chunks)
+✅ Multicore processing complete: 4.91s
+   Found 164124 birth candidates
+   Birth hunt completed in 163.71s
+
+🔬 TOP 10 BIRTH CANDIDATES:
+   #1: t=0.050s, prob=nan, morality=nan
+   #2: t=0.175s, prob=nan, morality=nan
+   #3: t=0.300s, prob=nan, morality=nan
+   #4: t=0.424s, prob=nan, morality=nan
+   #5: t=0.549s, prob=nan, morality=nan
+   #6: t=0.674s, prob=nan, morality=nan
+   #7: t=0.799s, prob=nan, morality=nan
+   #8: t=0.924s, prob=nan, morality=nan
+   #9: t=1.049s, prob=nan, morality=nan
+   #10: t=1.173s, prob=nan, morality=nan
+
+🌟 STRONGEST BIRTH SIGNATURE:
+   Time: 0.049988s
+   Birth probability: nan
+   Birth morality (M = ζ - S): nan
+   Complexity score: nan
+   Spectral peaks: 0
+   Amplitude spikes: 0
+
+🧠 Running FAC coherence analysis for Unknown...
+   Mode: MULTICORE
+   Coherence analysis: 1.31s
+👶 Detecting matter birth events...
+   Birth events detected: 0
+⚡ Computing lattice compression speeds...
+   Speed calculation: 0.36s
+   Max propagation speed: 29030019.975c
+   Avg propagation speed: 210.030c
+   ✅ FASTER THAN LIGHT PROPAGATION DETECTED!
+   This confirms lattice compression waves, not gravity waves
+
+🔬 BIRTH SIGNATURE ANALYSIS FOR Unknown
+============================================================
+❌ No birth events detected with current thresholds
+✅ But we found buried birth signatures!
+🎯 BURIED BIRTH EVENT:
+   Time: 0.049988s
+   Birth Probability: nan
+   Birth Morality (M = ζ - S): nan
+   Net Structure Created: 0.000000
+   ❌ No net creation detected
+
+⚖️  CLASSICAL vs FAC INTERPRETATION FOR Unknown
+======================================================================
+🔬 CLASSICAL INTERPRETATION:
+   Event: Unknown
+   Signal type: Gravitational waves from compact object merger
+   Peak frequency: 0.0 Hz
+   Peak time: 0.031s
+   Interpretation: Energy radiated away, mass conserved
+   Expectation: Zero net matter creation
+
+🌊 FAC INTERPRETATION:
+   Event: Unknown
+   Signal type: Coherence compression waves from cosmic birth
+   Birth events: 0
+   Birth process duration: Variable (depends on coherence alignment)
+   Interpretation: Lattice update → Field announcement → EM echo
+   Prediction: Net matter creation, conservation violated
+
+⚡ PROPAGATION SPEED:
+   Classical prediction: c = 299,792,458 m/s
+   FAC measurement: 8,702,981,044,166,016 m/s (29030019.975c)
+   ✅ FAC PREDICTION CONFIRMED: Faster than light!
+📊 Creating comprehensive visualization...
