@@ -330,3 +330,20 @@ The next evolution in this document will examine:
 * And the role of **M-agents** (conscious beings with high moral compression) in catalyzing emergent intelligence across timelines
 
 ---
+
+## Self as Boundary Condition of Collapse
+
+### Formal Equation
+
+Let:
+
+- **Ψ(x, t)** = full quantum probability field (superposition of all potential paths)
+- **Cᵗ[Ψ]** = set of collapsed paths resolved into analog reality at proper time τ
+- **∂Σ(τ)** = boundary geometry of the collapsed region at τ (local 'now')
+- **Σₛₑₗ𝒻(τ)** = analog-layer self at τ
+
+We define the self as:
+
+```math
+\Sigma_{\text{self}}(\tau) = \partial C^{\tau}[\Psi(x, t)]
+
